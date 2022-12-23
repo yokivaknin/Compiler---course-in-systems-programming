@@ -1,0 +1,63 @@
+Eror: There were no file found. \n
+
+The file: %s can not be open.\n
+
+System eror in row: %d there was an memory alloction problem.\n
+
+Eror in row: %d apostrophes missing.\n
+
+Eror in row: %d there is an axcess character.\n
+
+Eror in row: %d  input is invalid.\n
+
+Eror in row: %d  input not found, missing numbers.\n
+
+Eror in row: %d could not find symbol - %s -.\n
+
+Eror in row: %d the first operand dose not exist.\n
+
+Eror in row: %d the second operand dose not exist.\n
+
+Eror in row: %d incorrect operand.\n
+
+Eror in row: %d the operand addresing method is incorrect.\n
+
+Eror in row: %d there is no comma between operands.\n
+
+Eror in row: %d the first operand is incorrect.\n
+
+Eror in row: %d the second operand is incorrect.\n
+
+Eror in row: %d the first operand addresing mthod is incorrect.\n
+
+Eror in row: %d the second operand addresing mthod is incorrect.\n
+
+Eror in row: %d incorrect command.\n
+
+System eror: could not find the begining of .am file.\n
+
+Eror in row: %d expected command or instruction after lable.\n
+
+Eror in row: %d lable %s is duplicate.\n
+
+Eror in row: %d there is extern without a lable.\n
+
+Eror in row: %d lable allrady declerd as non external.\n
+
+Eror in row: %d incorrect instruction.\n
+
+Eror: memory over flow.\n
+
+System Eror: could not create externalse file.\n
+
+Eror in row: %d symbol could not be obtained.\n
+
+Eror in row: %d expected lable.\n
+
+System Eror: could not create entry file.\n
+
+System Eror: could not create object file.\n
+
+Eror in row: %d macro name is not valid
+
+System eror: there was an memory alloction problem at macro procesing.\n
