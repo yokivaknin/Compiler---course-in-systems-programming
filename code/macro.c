@@ -229,5 +229,6 @@ FILE* process_macro(FILE* current, char* cleanFileName)
 
 		free(macroFileName);
 		return NULL;
+
 	}
 }

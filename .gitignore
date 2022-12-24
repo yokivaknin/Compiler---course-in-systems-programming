@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VS_Git/v17/ipch/AutoPCH/583fb0b503f14141/MACRO.ipch
+/.vs/VS_Git/v17/Browse.VC.db
+/.vs/VS_Git/v17/Browse.VC.db-shm
+/.vs/VS_Git/v17/Browse.VC.db-wal
+/.vs/VS_Git/v17/Browse.VC.opendb
+/.vs
